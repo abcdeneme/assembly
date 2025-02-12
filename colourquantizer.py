@@ -115,5 +115,5 @@ def quantize_image(image_path):
 
 # Example usage	
 #quantize_image('krazy.png')
-#quantize_image('joke.png')
-quantize_image('jumpscare.jpg')
+quantize_image('joke.png')
+#quantize_image('jumpscare.jpg')
